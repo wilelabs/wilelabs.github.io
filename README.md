@@ -1,3 +1,5 @@
 # Wile Labs
 
-A place to gather quirky ideas, fellow travelers, things that ought to be built, and maybe, just maybe, some people to build them.
+The home for fellow traveling sheep.
+
+This repo is the home page for the Wile Labs consortium.
